@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mickpotter83.github.io/rsschool-cv/cv
