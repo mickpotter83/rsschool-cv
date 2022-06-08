@@ -3,21 +3,21 @@
 # Junior Frontend Developer
 
 # Contacts
-Location: Moscow, Russia  
-Phone: +7 926 576 47 18  
+Location: Moscow, Russia<br>
+Phone: +7 926 576 47 18<br>
 
-Email: [mickpotter@yandex.ru](mickpotter@yandex.ru)  
-[LinkedIn](https://ru.linkedin.com/in/mikhailgoncharenko)  
-[GitHub](https://github.com/mickpotter83)  
+Email: [mickpotter@yandex.ru](mickpotter@yandex.ru)<br>
+[LinkedIn](https://ru.linkedin.com/in/mikhailgoncharenko)<br>
+[GitHub](https://github.com/mickpotter83)<br>
 
 # About Me
 Received an excellent scientific education, but went to work in business. Reached a ceiling I can't breach, so I decided to try IT as something more advantageous.
 
 # Skills
-HTML  
-CSS  
-JavaScript  
-Git  
+HTML<br>
+CSS<br>
+JavaScript<br>
+Git<br>
 
 # Work Experience
 02.2018 - 05.2020
