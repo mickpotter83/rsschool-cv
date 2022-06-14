@@ -1,14 +1,143 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cv</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="./assets/favicon.ico">
 </head>
 <body>
-  <h1>Mikhail Goncharenko</h1>
-  <img src="img/me.jpg" alt="my photo">
+  <header class="header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts </a></li>
+          <li class="nav-item"><a href="#about" class="nav-link">About Me </a></li>
+          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+          <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+          <li class="nav-item"><a href="#work" class="nav-link">Work Experience</a></li>
+          <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+          <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+          <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container">
+      <h1>Mikhail Goncharenko</h1>
+      <h2>Junior Frontend Developer</h2>
+      <img src="me.jpg" alt="my photo">
+      <h2 id="contacts">Contacts</h2>
+      <p>Location: Moscow, Russia<br />
+       Phone: +7 123 456 78 90<br /></p>
+      <p>Email: <a href="123@yandex.ru">123@yandex.ru</a><br />
+      <a href="https://ru.linkedin.com/in/mikhailgoncharenko">LinkedIn</a><br />
+      <a href="https://github.com/mickpotter83">GitHub</a><br /></p>
+
+      <h2 id="about">About Me</h2>
+      <p>Received an excellent scientific education, but went to work in business. Reached a ceiling I can’t breach, so I decided to try IT as something more promising.</p>
+
+<h2 id="skills">Skills</h2>
+<ul>
+  <li>
+    HTML
+  </li>
+  <li>
+    CSS
+  </li>
+  <li>
+    JavaScript
+  </li>
+  <li>
+    Git
+  </li>
+</ul>
+
+<h2 id="code">Code</h2>
+<pre><code>  body {
+    font-family: 'Roboto';
+    min-height: 100vh;
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }</code></pre>
+
+<h2 id="work">Work Experience</h2>
+<p>02.2018 - 05.2020<br />
+“Starokupavinsky Lyceum” Secondary School, Staraya Kupavna.
+Robotics Teacher (part-time).</p>
+
+<p>2015 to present<br />
+Imtrade-Group Ltd., Moscow.
+Business Manager.</p>
+
+<p>2014-2015<br />
+Imtrade-Group Ltd., Moscow.
+Project Manager.</p>
+
+<p>2010-2014<br />
+Imtrade-Group Ltd., Moscow. 
+Brand-manager (Head of Department), Cable Products &amp; Accessories.</p>
+
+<p>2007-2010<br />
+Imtrade-Group Ltd., Moscow. 
+Key Specialist, Cable Products Department</p>
+
+<p>2004-2007<br />
+Animagic Computer Graphics Studio, Moscow. 
+Project manager.</p>
+
+<h2 id="education">Education</h2>
+<p>2018<br />
+National University of Modern Technologies, Volgograd.
+Professional retraining (distance learning).
+Received a diploma of professional retraining.
+Awarded qualification - Teacher of Computer Science.</p>
+
+<p>2006-2009<br />
+Moscow Engineering Physics Institute (MEPhI). 
+Department of Physical Problems of Materials. PhD student (full-time).</p>
+
+<p>2000-2006<br />
+Moscow Engineering Physics Institute (MEPhI). 
+Department of Solid State Physics and Quantum Radiophysics.
+Graduate degree of Engineer-physicist in Physics of Condensed Matter</p>
+
+<h2 id="courses">Courses</h2>
+<ul>
+  <li>An Introduction to Operations Management. Online course. Wharton School of the University of Pennsylvania, September-November 2013.</li>
+  <li>An Introduction to Marketing. Online course. Wharton School of the University of Pennsylvania, October-December 2013.</li>
+  <li>An Introduction to Corporate Finance. Online course. Wharton School of the University of Pennsylvania, October-December 2013.</li>
+  <li>Critical Perspectives on Management. Online course. IE Business School in Madrid, January-March 2014.</li>
+  <li>Gamification. Online course. Wharton School of the University of Pennsylvania, January-April 2014.</li>
+  <li>Financial Markets. Online course. Yale University, February-April 2014.</li>
+  <li>Financial Markets and Institutions. Online course. Higher School of Economics, February-April 2014.</li>
+  <li>Microeconomics Principles. Online course. Higher School of Economics, April-June 2014.</li>
+  <li>Industrial Organization. Online course. Higher School of Economics, April-June 2014.</li>
+  <li>Macroeconomics. Online course. Higher School of Economics, May-August 2014.</li>
+  <li>Programming for Everybody (Python). Online course. University of Michigan, June-August 2014.</li>
+  <li>Fundamentals of Corporate Finance. Online course. Higher School of Economics, June-September 2014.</li>
+  <li>Institutional economics. Online course. Higher School of Economics, September-November 2014.</li>
+  <li>An Introduction to Financial Accounting. Online course. Wharton School of the University of Pennsylvania, September-November 2014.</li>
+  <li>Supply Chain Management: A Learning Perspective. Online course. Korea Advanced Institute of Science and Technology, October-December 2014.</li>
+</ul>
+
+<h2 id="languages">Languages</h2>
+<p>Native Russian, fluent English (language practice in USA in the summer of 2003), basic knowledge of German and French.</p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <a class="footer-element" href="https://github.com/mickpotter83">GitHub</a>
+      <span class="footer-element">2022</span>
+      <a href="https://rs.school/js/"><img  class="rsschool-image" src="https://rs.school/images/rs_school_js.svg" alt="RS School"></a>
+    </div>
+  </footer>
 </body>
 </html>

@@ -11,7 +11,7 @@ Email: [mickpotter@yandex.ru](mickpotter@yandex.ru)<br>
 [GitHub](https://github.com/mickpotter83)<br>
 
 # About Me
-Received an excellent scientific education, but went to work in business. Reached a ceiling I can't breach, so I decided to try IT as something more advantageous.
+Received an excellent scientific education, but went to work in business. Reached a ceiling I can't breach, so I decided to try IT as something more promising.
 
 # Skills
 HTML<br>
